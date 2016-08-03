@@ -6,13 +6,11 @@ kjhbsdcijdhbsodk
 
 
 
-<<<<<<< HEAD
 12
 
 
-=======
 11
->>>>>>> master
+
 
 https://github.com/anoopkrsonkar/testing.git
 
